@@ -5,8 +5,7 @@ public class ApplicationDriver {
 
         tania.setUniversities("Monash");
         tania.setAge(21);
-        System.out.println("Tania is " + tania.getAge() + " years old.");
-        System.out.println("Tania is studying at " + tania.getUniversities() + " University.");
+        System.out.println("Tania is " + tania.getAge() + " years old and is studying at " + tania.getUniversities() + " University.");
     }
 }
 
